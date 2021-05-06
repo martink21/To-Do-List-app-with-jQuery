@@ -1,1 +1,1 @@
-# to-do-list-app
+# To-Do List app with jQuery
